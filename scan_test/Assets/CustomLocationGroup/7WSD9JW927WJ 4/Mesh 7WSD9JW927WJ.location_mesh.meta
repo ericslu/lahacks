@@ -1,0 +1,16 @@
+- !<AssetImportMetadata/b62656e2-b97b-4880-b963-686cacc2302a>
+  ImportedAssetIds:
+    LocationMesh: !<reference> 828dfe26-2f8c-4ba5-b0bc-5cfb466c935c
+  ImporterName: LocationMeshImporter
+  PrimaryAsset: !<reference> 828dfe26-2f8c-4ba5-b0bc-5cfb466c935c
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000

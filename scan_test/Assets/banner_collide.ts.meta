@@ -1,0 +1,39 @@
+- !<AssetImportMetadata/ee488ad6-3332-48d1-8943-f87d50aa7706>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> d17d26d1-8825-408a-a9ab-ac4a8623558b
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> d17d26d1-8825-408a-a9ab-ac4a8623558b
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> f94cee65-99e8-450c-a453-59ab688c3faf
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/f94cee65-99e8-450c-a453-59ab688c3faf>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 1b01a786-ebba-4dde-a8dd-24a7c8605400
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    collider: false
+  ScriptTypesHidden:
+    {}
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    - collider: !<reference.ColliderComponent> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input Component.ColliderComponent collider
